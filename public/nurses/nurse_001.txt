@@ -1,0 +1,3 @@
+Name: Nurse Blessing Ad
+Department: Emergency ward 
+Shift: Night 
