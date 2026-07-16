@@ -2,8 +2,6 @@ Name: Ada Johnson
 Age: 32
 Diagnosis: Routine checkup
 Date: 2026-04-26
-
-
-
+Next Appointment: 2026-05-25
 
 
