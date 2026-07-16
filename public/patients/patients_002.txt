@@ -2,3 +2,4 @@ Name: Michael Okafor
 Age: 45
 Diagnosis: Malaria Treatment
 Date: 2026-04-27
+Next Appointment: 2026-05-10
