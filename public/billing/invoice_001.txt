@@ -1,3 +1,3 @@
 Invioce  #001 
 Patient: Ada Johnson  
-Amount: 15000
+Amount: 20000
