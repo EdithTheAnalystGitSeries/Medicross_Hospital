@@ -1,5 +1,5 @@
 Medicine: Paracetamol
-Stock: 200
+Stock: 50 
 Price: 500 NGN
 Expiry: 2027-12-31
 
