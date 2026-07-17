@@ -1,0 +1,4 @@
+Medicine: Amoxicillin 
+Stock: 200
+Expiry: 2027-10-31
+Price: 200
