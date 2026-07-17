@@ -1,0 +1,4 @@
+Medicine: Ibuprofen
+Stock: 150 
+Price: 700 NGN 
+
