@@ -1,1 +1,4 @@
-Medicine; Vitaminc 
+Medicine; Vitamin C
+Stock: 50
+Price: 100 NGN 
+Expiry: 2027-01-10
