@@ -1,0 +1,4 @@
+Name: ORS
+Stock: 150
+Price: 300NGN
+Use: Dehydration 
